@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRd9RHQawpkRhckYz53NTuE6LvZVJLGwI3Zjy5q8Ge83SXgahh8opQOEXM0EgJxFIwhMix7Ypf1j5vMoNXS8VQ==",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\Code\\ZooParkWithInheritance\\ZooPark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matt_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\matt_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\matt_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\matt_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
