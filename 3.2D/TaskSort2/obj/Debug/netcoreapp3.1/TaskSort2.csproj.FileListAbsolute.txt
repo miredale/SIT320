@@ -1,0 +1,40 @@
+C:\Users\Matthew\source\repos\TaskSort\bin\Debug\netcoreapp3.1\TaskSort2.exe
+C:\Users\Matthew\source\repos\TaskSort\bin\Debug\netcoreapp3.1\TaskSort2.deps.json
+C:\Users\Matthew\source\repos\TaskSort\bin\Debug\netcoreapp3.1\TaskSort2.runtimeconfig.json
+C:\Users\Matthew\source\repos\TaskSort\bin\Debug\netcoreapp3.1\TaskSort2.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\TaskSort\bin\Debug\netcoreapp3.1\TaskSort2.dll
+C:\Users\Matthew\source\repos\TaskSort\bin\Debug\netcoreapp3.1\TaskSort2.pdb
+C:\Users\Matthew\source\repos\TaskSort\obj\Debug\netcoreapp3.1\TaskSort2.csprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\TaskSort\obj\Debug\netcoreapp3.1\TaskSort2.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\TaskSort\obj\Debug\netcoreapp3.1\TaskSort2.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\TaskSort\obj\Debug\netcoreapp3.1\TaskSort2.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\TaskSort\obj\Debug\netcoreapp3.1\TaskSort2.dll
+C:\Users\Matthew\source\repos\TaskSort\obj\Debug\netcoreapp3.1\TaskSort2.pdb
+C:\Users\Matthew\source\repos\TaskSort\obj\Debug\netcoreapp3.1\TaskSort2.genruntimeconfig.cache
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.exe
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.deps.json
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.runtimeconfig.json
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.runtimeconfig.dev.json
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.dll
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.pdb
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.csprojAssemblyReference.cache
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.AssemblyInfoInputs.cache
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.AssemblyInfo.cs
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.csproj.CoreCompileInputs.cache
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.dll
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.pdb
+D:\Matthew\OneDrive\Computer Science\1st Tri\SIT221\Week 3\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.genruntimeconfig.cache
+D:\Downloads\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.exe
+D:\Downloads\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.deps.json
+D:\Downloads\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.runtimeconfig.json
+D:\Downloads\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.runtimeconfig.dev.json
+D:\Downloads\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.dll
+D:\Downloads\3.2D\TaskSort2\bin\Debug\netcoreapp3.1\TaskSort2.pdb
+D:\Downloads\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.csproj.AssemblyReference.cache
+D:\Downloads\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.AssemblyInfoInputs.cache
+D:\Downloads\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.AssemblyInfo.cs
+D:\Downloads\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.csproj.CoreCompileInputs.cache
+D:\Downloads\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.dll
+D:\Downloads\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.pdb
+D:\Downloads\3.2D\TaskSort2\obj\Debug\netcoreapp3.1\TaskSort2.genruntimeconfig.cache
