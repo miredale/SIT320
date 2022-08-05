@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2n7/0FthpOp0AKr9wUHX5wJ/tzjtL5ONcO9uwuzL5x/PsCXt39zO4/x/+hP8Ci8ia7KbGcm6pRJ3p60+Iw5Zw==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Module3P\\Mod_7b\\observer\\observer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matt_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\matt_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\matt_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\matt_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
